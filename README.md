@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=F72E2E&width=435&lines=cWOWq)](https://git.io/typing-svg)
-
-new profile : https://github.com/javastackk
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=F72E2E&width=435&lines=7Kotaa)](https://git.io/typing-svg)
   
 ![](https://komarev.com/ghpvc/?username=cwowqqq&style=for-the-badge)
 

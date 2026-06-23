@@ -8,7 +8,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-222222?style=for-the-badge&logo=Notepad%2B%2B&logoColor=90E59A)
 
 
-![cwowq's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwowqqq&show_icons=true&theme=transparent)
+![7Kotaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=7kotaaa&show_icons=true&theme=transparent)
 
 
 ### Projects

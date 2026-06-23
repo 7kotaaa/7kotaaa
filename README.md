@@ -5,7 +5,7 @@
 ### Browsers/IDE
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-![Notepad++](https://img.shields.io/badge/Notepad++-222222?style=for-the-badge&logo=Notepad%2B%2B&logoColor=90E59A)
+![VSCode](https://img.shields.io/badge/VSCode-222222?style=for-the-badge&logo=VSCode%2B%2B&logoColor=90E59A)
 
 
 ![7Kotaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=7kotaaa&show_icons=true&theme=transparent)
